@@ -37,15 +37,6 @@ Me chamo João Vitor Rainato Kodama, tenho 22 anos e sou natural de São Bernard
 
 <img 
   align="left"
-  alt="PYTHON"
-  title=PY
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"                  
-/>
-
-<img 
-  align="left"
   alt="MYSQL"
   title=MYSQL
   width="30px"
@@ -62,6 +53,15 @@ Me chamo João Vitor Rainato Kodama, tenho 22 anos e sou natural de São Bernard
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"                               
 />
 
+<img 
+  align="left"
+  alt="PYTHON"
+  title=PYTHON
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>          
+ 
 <br/>
 <br/>
 
