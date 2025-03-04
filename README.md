@@ -7,9 +7,14 @@
 Me chamo João Vitor Rainato Kodama, tenho 22 anos e sou natural de São Bernardo do Campo. Conclui o curso de Analise e Desenvolvimento de Sistemas na Faculdade Anhanguera, atualmente estou cursando Ciências da Computação na Universidade Anhembi Morumbi, com sólidos conhecimentos em Phyton, C#, C++, PHP, MySQL. Sou uma pessoa motivado e pronto para aplicar meus conhecimentos em um ambiente prático. E estou a procura de uma oportunidade que me permita começar minha jornada na área da Tecnologia e sempre estar contribuindo com soluções inovadoras.
 
 <div>
-  
+  <a href="mailto:joaokodama123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-kodama-0845251b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </div>
-...
+
+<br/>
+<br/>
+    
 
 **'🤖Linguagens e Técnologia**'
 
