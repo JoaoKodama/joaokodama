@@ -70,3 +70,11 @@ Me chamo João Vitor Rainato Kodama, tenho 22 anos e sou natural de São Bernard
 ### 📊Estatísticas 
 💡
 
+<img 
+  align="left"
+  alt="GitHub Stats"
+  width="400"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=JoaoKodama&show_icons=true&theme=radical"
+/>          
+
